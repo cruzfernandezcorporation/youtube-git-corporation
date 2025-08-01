@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    OOOOTRO
+    <h1>Hola mundo</h1>
+    <?php echo date('d/m/Y'); ?>
 </body>
 </html>
