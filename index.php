@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hola mundo</h1>
-    <?php echo "Fecha actual: " . date('d/m/Y'); ?>
+    <?php echo "Fecha actual: " . date('d/m/Y'); ?> 
 </body>
 </html>
