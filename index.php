@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Hola mundo</h1>
-    <?php echo "Fecha actual: " . date('d/m/Y'); ?> 
+    <?php echo "Fecha actual: " . date('d/m/Y H:i:s'); ?>
+    <p>Este es un ejemplo de una página PHP simple.</p>
 </body>
 </html>
