@@ -1,0 +1,252 @@
+commit 2c9d0e92ef306d04cb4f0946726744671dbb73aa
+Merge: b39782d 6d16ab7
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 10:01:43 2025 -0500
+
+    Otro cambio?
+
+commit b39782d0e6428d98b8aa8b5e2d554587bbe079d0
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:57:46 2025 -0500
+
+    Agregando ítems
+
+commit 6d16ab794bb680a64861df9e10ffe9db99e36301
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:57:46 2025 -0500
+
+    Agregando ítems
+
+commit fd6fe5bfba9553f91c8416822a20f3987d543332
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:56:02 2025 -0500
+
+    Estoy reseteando el archivo index.html
+
+commit c67c6ce181128863d7b959644dab7080d0bae793
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:53:50 2025 -0500
+
+    Agregando dos elementos
+
+commit fa0475e22cf9d157415deecc8f340eb82df15597
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:52:38 2025 -0500
+
+    Reseteando
+
+commit a9e3094fcbde5935709cd0f9c36c48e2674e7905
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:50:37 2025 -0500
+
+    Agregando elementos
+
+commit 5b7940251044d169b4d0ed5cf411899b315893d4
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:49:51 2025 -0500
+
+    Reseteado
+
+commit 28015bbe0324a3653500bfec3778f1df5d144626
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:47:09 2025 -0500
+
+    Agregando dos elementos
+
+commit 17c3916cf496d2327e89e8c8e528824115f8ac7c
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:45:28 2025 -0500
+
+    Agregando elementos
+
+commit 0f23e560e7cc2d0dcbbdc664629cc59f2087224c
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:44:40 2025 -0500
+
+    Resetenado
+
+commit 4dd5a93cdc281bd989015ee695cf8af10fb540e2
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:43:07 2025 -0500
+
+    Eliminando cuatro archivos
+
+commit 0ac30b30aaea2b1fa2505af86f2848f0a02a7f52
+Merge: 51120ad 369a91b
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 09:34:59 2025 -0500
+
+    Este es un cambio que se hizo para la asñdlmasñdl
+
+commit 51120ad7f23f588bc870dd0274b021abcacaf6c4
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 08:32:05 2025 -0500
+
+    Modificando en estaciones con fecha
+
+commit 369a91b897e1b1e5142efc09588e3f6ce8e44dd9
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 08:32:05 2025 -0500
+
+    Agregando las estaciones del año
+
+commit e0f191fc139d33c6c09e85ba6a382835fcc55991
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Mon Aug 4 08:18:14 2025 -0500
+
+    Probando con la Prueba 1
+
+commit 6209610d57ac8bf7474142d42f8db64ece36ec1e
+Merge: c4e3e5b c2b5d8b
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Sat Aug 2 00:01:59 2025 -0500
+
+    Resolviendo conflictos
+
+commit c2b5d8bc37b3fe3895f356de55f391ca7d61a689
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 23:53:42 2025 -0500
+
+    Agregando index.js al index.html
+
+commit c4e3e5b9d19a97cf7a0f53d0f76a105bd0440cc4
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 23:51:50 2025 -0500
+
+    Añadiendo style.css a index.html
+
+commit ffc075db5dad986795e1e37b67f1362b4c8c9675
+Merge: 11f8efc 70b355c
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 19:09:14 2025 -0500
+
+    Merge branch 'js' into otro_main
+
+commit 11f8efc2c672a856cdd0298fa311440181868061
+Merge: 6112266 e2c7ad0
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 19:09:03 2025 -0500
+
+    Merge branch 'css' into otro_main
+
+commit 61122667b3a54e408aab8d53e64a798d0a737a53
+Merge: 2bdb0aa b7a9ee0
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 19:08:45 2025 -0500
+
+    Merge branch 'html' into otro_main
+
+commit b7a9ee09bef0828d7dec1d33c5f0b27d7de86fd6
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 18:51:44 2025 -0500
+
+    Cambiando html
+
+commit 2bdb0aab2818679eb21a544af05b658ef1543b0b
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 18:50:50 2025 -0500
+
+    Cambioooooooo
+
+commit 263e6c520eb9bfa18fd4f5d70cde9fba0f9e9eae
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 18:48:36 2025 -0500
+
+    un archivo mas
+
+commit 2e8addfc6b8a7893961d0dc7146007fe1a399d26
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 18:44:43 2025 -0500
+
+    Cambio en el index php
+
+commit 8aa8467359aaa52675ee781bf24fe39838177bac
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 18:29:33 2025 -0500
+
+    A ver que pasa con esto
+
+commit 70b355c5e4f1d8914a8cf371ad8a5d8a3734bca8
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 15:20:53 2025 -0500
+
+    Insertando js
+
+commit e2c7ad043fc85ff1065b7bbb992b0890e47cb36b
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 15:12:31 2025 -0500
+
+    Nuevo estilo css agregando
+
+commit 125e878248520f94ca203e57a14f162597d67dd2
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 15:08:42 2025 -0500
+
+    Creando un html
+
+commit 32593526610d629968e3e745183c3b4820adf51b
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 14:42:43 2025 -0500
+
+    Cambiando
+
+commit 228a02a2b0efcc2f93e62335d42bc18bac8d442a
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 13:57:19 2025 -0500
+
+    AAAAAAAAAAAAAAAAAAAAAAAAA
+
+commit aeb4c3dcd09861e0ccb6e3ea1b347bafc96f8dd0
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 13:32:21 2025 -0500
+
+    A ver si guarda 1111
+
+commit b8a98257c2e5b0e8c2750ffdc90781fdc32666f0
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 12:33:31 2025 -0500
+
+    Mensaje de fecha
+
+commit 511693582fafefa5cefc9d9e3a4df0496f22961b
+Author: MaycolCruzFern <168200562+MaycolCruzFern@users.noreply.github.com>
+Date:   Fri Aug 1 12:18:16 2025 -0500
+
+    Creando licencia del cambio
+
+commit bd042ee48558e26a555e2b4689b1cc761f5b2b95
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 12:12:41 2025 -0500
+
+    Comentario de prueba
+    Otro comentario de prueba
+
+commit 0fcdd6ff397b1420c2d78a9cfb9b6c1dc2c02e11
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 12:06:13 2025 -0500
+
+    A veeeeeeeerrrrrrrrrrrr
+
+commit ed72d90a2cd985cf2f401dddc1071a276f1db2df
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 12:02:56 2025 -0500
+
+    Una línea mas para ejemplificar
+
+commit a12e16d92622001b3228b80dd22d5bed6cee97b3
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 11:53:15 2025 -0500
+
+    Agregando mas contenido al README
+
+commit 622f5896f153b910dbf87416d573a5b0fa9acfe4
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 11:26:47 2025 -0500
+
+    Agregando contenido al README
+
+commit 4be08ec71f88dd9716ce8e811eae9c093ececc23
+Author: Maycol Cruz Fernandez <maycol.cruz.f@gmail.com>
+Date:   Fri Aug 1 11:21:00 2025 -0500
+
+    Primer commit
