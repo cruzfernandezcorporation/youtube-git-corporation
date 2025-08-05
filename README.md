@@ -10,3 +10,5 @@ Agregando la versión **v1.0.1**
 
 Cambio de prueba
 A veer
+
+Este es otro cambio desde el colaborador
