@@ -1,16 +1,9 @@
 # Curso de Git y GitHUb
 
-Todo este README ha sido modificado
+Bienvenidos al curso de GIT
 
-Comentario
+¿Quieres dominar el curso de GIT?
 
-Estoy cambio desde pc
+Mira este [enlace](https://jonmircha.com/git#github-pages)
 
-Agregando la versión **v1.0.1**
-
-Cambio de prueba
-A veer
-
-Este es otro cambio desde el colaborador
-
-CAMBIO DESDE CORPORATION
+![Flujo git](https://www.tooltyp.com/wp-content/uploads/2014/10/1900x920-8-beneficios-de-usar-imagenes-en-nuestros-sitios-web.jpg)
